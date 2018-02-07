@@ -1,0 +1,9 @@
+{
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "eslint.options": {
+    "parserOptions": {
+      "ecmaVersion": 6
+    }
+  }
+}

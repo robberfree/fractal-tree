@@ -1,0 +1,26 @@
+{
+  "name": "fractal-tree",
+  "version": "1.0.0",
+  "description": "使用canvas和分形几何学创建树🌲",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robberfree/fractal-tree.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robberfree/fractal-tree/issues"
+  },
+  "homepage": "https://github.com/robberfree/fractal-tree#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.10.0"
+  }
+}
